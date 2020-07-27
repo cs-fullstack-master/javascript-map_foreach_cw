@@ -4,10 +4,10 @@
 Ask the user to enter a word. Keep asking them to enter a word until they enter the letter 'q'.
 
 ### Problem 2
-Make any string array all lower case strings. If you don't remember how to use that Google it.
+Make a string array of Pet names. Write a function to convert all the names in the array to lower case strings. 
 
 ### Challenge
-Make any string array return an array of objects with the specified class below
+Make any string array of student names. Write an arrow function that takes the string array as a parameter and returns a new array of Student objects using the class below
 
 ```
 class Student{
